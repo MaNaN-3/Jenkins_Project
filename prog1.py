@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def vowel(s):
     arr=['a','e','i','o','u']
     ans=0
