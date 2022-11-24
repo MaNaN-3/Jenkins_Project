@@ -1,0 +1,1 @@
+{"name":"Local: vowel","url":"/home/manan/Desktop/Semester 5/Software Engineering Lab/jenkins/vowel.cpp","tests":[{"id":1669315558986,"input":"auu","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/manan/Desktop/Semester 5/Software Engineering Lab/jenkins/vowel.cpp","group":"local","local":true}
